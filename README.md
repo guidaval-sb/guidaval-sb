@@ -19,16 +19,21 @@
 <h2 align="center">Tecnologias <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Dokcer-blue?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux"/>
-<img src="https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=terraform"/>
+<img src="https://skillicons.dev/icons?i=html">
+<img src="https://skillicons.dev/icons?i=css">
+<img src="https://skillicons.dev/icons?i=javascript">
+<img src="https://skillicons.dev/icons?i=linux">
+<img src="https://skillicons.dev/icons?i=windows">
+<img src="https://skillicons.dev/icons?i=github">
+<img src="https://skillicons.dev/icons?i=git">
+<img src="https://skillicons.dev/icons?i=aws">
+<img src="https://skillicons.dev/icons?i=azure">
+<img src="https://skillicons.dev/icons?i=docker">
+<img src="https://skillicons.dev/icons?i=terraform">
+<img src="https://skillicons.dev/icons?i=vscode">
+<img src="https://skillicons.dev/icons?i=python">
+<img src="https://skillicons.dev/icons?i=ansible">
+<img src="https://skillicons.dev/icons?i=postman">
 </p>
 
 <h2 align="center">Entre em contato comigo <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
