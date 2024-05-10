@@ -36,10 +36,10 @@
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: guiiihcarvalho96@gmail.com">
- <img src="https://img.shields.io/badge/-GuidavalSb-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guiiihcarvalho967@gmail.com"/>
+ <img src="https://img.shields.io/badge/-GuilhermeC-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guiiihcarvalho967@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/guilherme-carvalho-752a21184/">
- <img src="https://img.shields.io/badge/-GuidavalSb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-carvalho-752a21184/"/>
+ <img src="https://img.shields.io/badge/-GuilhermeC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-carvalho-752a21184/"/>
 </p>
 
 
