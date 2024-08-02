@@ -13,7 +13,7 @@
 </p>
 
  <p align="center">
-  Sou um estudante do 3º semestre cursando Redes de Computador 🎓 pelo SENAI DE TECNOLOGIA  🏛. Sou um aluno apaixonado que está sempre disposto a aprender e trabalhar em tecnologias e domínios 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨. Além disso, também adoro ser orientado e ajudar novatos👨🏻‍💻. Estou profundamente envolvido com Web 🕸️ Desenvolvimento.
+  Sou um estudante do 4º e ultimo semestre cursando Redes de Computador 🎓 pelo SENAI DE TECNOLOGIA  🏛. Sou um aluno apaixonado que está sempre disposto a aprender e trabalhar em tecnologias e domínios 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨. Além disso, também adoro ser orientado e ajudar novatos👨🏻‍💻. Estou profundamente envolvido com Web 🕸️ Desenvolvimento.
 </p>  
 
 <h2 align="center">Tecnologias <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
